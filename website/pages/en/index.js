@@ -76,13 +76,13 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('docusaurus.svg')} />
+        <Logo img_src={imgUrl('js-logo.png')} />
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
+            {/* <Button href="#try">Try It Out</Button> */}
+            <Button href={docUrl('overview.html', language)}>Getting started</Button>
+            <Button href="https://www.github.com/lustst/learn-javascript">Github</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -95,7 +95,7 @@ const Block = props => (
     padding={['bottom', 'top']}
     id={props.id}
     background={props.background}>
-    <GridBlock align="center" contents={props.children} layout={props.layout} />
+    <GridBlock align="left" contents={props.children} layout={props.layout} />
   </Container>
 );
 
@@ -104,13 +104,13 @@ const Features = props => (
     {[
       {
         content: 'This is the content of my feature',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('js-logo.png'),
         imageAlign: 'top',
         title: 'Feature One',
       },
       {
         content: 'The content of my second feature',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('js-logo.png'),
         imageAlign: 'top',
         title: 'Feature Two',
       },
@@ -131,10 +131,10 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Talk about learning how to use this',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Today in the web-development world javascript is everywhere it\'s important for a front-end developer to manage this language. Here you will learn the core concepts of how javascript works to the basics stuff.',
+        image: imgUrl('development.svg'),
         imageAlign: 'right',
-        title: 'Learn How',
+        title: 'Javascript behind the scene',
       },
     ]}
   </Block>
@@ -144,10 +144,10 @@ const TryOut = props => (
   <Block id="try">
     {[
       {
-        content: 'Talk about trying this out',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Once you really understand how javascript works you will be able to learn prowerful famrework like, reactJs, vueJs, Angular etc..',
+        image: imgUrl('react.png'),
         imageAlign: 'left',
-        title: 'Try it Out',
+        title: 'Learn powerful framework',
       },
     ]}
   </Block>
@@ -204,12 +204,12 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
-          <Features />
-          <FeatureCallout />
+          {/* <Features /> */}
+          {/* <FeatureCallout /> */}
           <LearnHow />
           <TryOut />
-          <Description />
-          <Showcase language={language} />
+          {/* <Description /> */}
+          {/* <Showcase language={language} /> */}
         </div>
       </div>
     );
