@@ -1,7 +1,7 @@
 {
   "docs": {
-    "Setup": ["overview"],
-    "First Category": [""],
+    "Setup": ["overview","introJs","startJs"],
+    "Basics": ["array"],
     "Second Category": [""]
   },
   "docs-other": {
