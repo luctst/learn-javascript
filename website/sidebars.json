@@ -1,8 +1,8 @@
 {
   "docs": {
     "Setup": ["overview","introJs","startJs"],
-    "Basics": ["dataType","array"],
-    "Second Category": [""]
+    "Basics": ["dataType","variable","array"],
+    "Behind the scenes": ["codeExecuted"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
