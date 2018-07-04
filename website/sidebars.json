@@ -2,7 +2,7 @@
   "docs": {
     "Setup": ["overview","introJs","startJs"],
     "Basics": ["dataType","variable","array"],
-    "Behind the scenes": ["codeExecuted","executionContext"]
+    "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","scopeChain"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
