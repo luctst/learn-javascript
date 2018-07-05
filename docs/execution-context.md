@@ -44,3 +44,7 @@ Let's see how this work:
 7. Back in the **second execution context** we store the `e` variable and removed the **second execution context**, we're now in the last execution context which is the **first execution context**.
 8. Then in the **first execution context** we store the `c` variable and removed the **first execution context** and we're back in the last execution context which is **global execution context**.
 9. Finally all execution context are done the result of the `first` function is display and we can execute the code in the **global execution context**.
+
+## Current errors
+This is a list of the main errors that you can meet when you use data types:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.

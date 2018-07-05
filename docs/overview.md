@@ -12,3 +12,7 @@ The learn-javascript repo is a collection of tips about the javascript language,
 > **Note:** We displays the code with the codePen script or Github gist.
 
 We will use the `ES6` syntax in this repo so you maybe need to use `Babel` in order to make your code work.
+
+## Current errors
+This is a list of the main errors that you can meet when you use data types:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.

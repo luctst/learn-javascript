@@ -1,7 +1,7 @@
 ---
-id: introJs
-title: Introduction to javascript
-sidebar_label: Introduction to javascript
+id: thisKeyword
+title: This keyword 
+sidebar_label: The this keyword in practice
 ---
 ## Current errors
 This is a list of the main errors that you can meet when you use data types:
