@@ -132,7 +132,7 @@ const LearnHow = props => (
     {[
       {
         content: 'Today in the web-development world javascript is everywhere it\'s important for a front-end developer to manage this language. Here you will learn the core concepts of how javascript works to the basics stuff.',
-        image: imgUrl('development.svg'),
+        image: imgUrl('dev.svg'),
         imageAlign: 'right',
         title: 'Javascript behind the scene',
       },
