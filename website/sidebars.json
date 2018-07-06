@@ -2,7 +2,9 @@
   "docs": {
     "Setup": ["overview","introJs","startJs"],
     "Basics": ["dataType","variable","array"],
-    "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"]
+    "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
+    "Asynchronous Javascript": [],
+    "ES6": []
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
