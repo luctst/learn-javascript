@@ -1,10 +1,10 @@
 {
   "docs": {
     "Setup": ["overview","introJs","startJs"],
-    "Basics": ["dataType","variable","array"],
+    "Basics": ["dataType","variable","array","object"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "Asynchronous Javascript": [],
-    "ES6": []
+    "ES6": ["class"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

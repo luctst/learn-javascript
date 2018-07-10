@@ -8,6 +8,8 @@
     "Array": "Array",
     "dataType": "Data type in javascript",
     "Date type": "Date type",
+    "class": "Class in ES6",
+    "Class": "Class",
     "executionContextDetail": "Execution context in detail.",
     "Execution context in detail": "Execution context in detail",
     "executionContext": "Execution context and execution stack",
@@ -18,6 +20,8 @@
     "How code is executed": "How code is executed",
     "introJs": "Introduction to javascript",
     "Introduction to javascript": "Introduction to javascript",
+    "object": "Object",
+    "Object": "Object",
     "overview": "Getting started",
     "Overview": "Overview",
     "scopeChain": "Scope chain",
@@ -34,6 +38,8 @@
     "Setup": "Setup",
     "Basics": "Basics",
     "Behind the scenes": "Behind the scenes",
+    "Asynchronous Javascript": "Asynchronous Javascript",
+    "ES6": "ES6",
     "First Category": "First Category"
   },
   "pages-strings": {

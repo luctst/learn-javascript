@@ -30,5 +30,5 @@ function first() {
 5. The scope chain works in descending order, you can access variable of a parent scope and not the opposite.
 
 ## Current errors
-This is a list of the main errors that you can meet when you use data types:
+This is a list of the main errors that you can meet when you use scope chain:
 > **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.
