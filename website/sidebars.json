@@ -4,7 +4,8 @@
     "Basics": ["dataType","variable","array","object"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "Asynchronous Javascript": [],
-    "ES6": ["class"]
+    "ES6": ["class"],
+    "Structure your app": []
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

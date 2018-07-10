@@ -19,10 +19,10 @@ During this phase we define the properties of the execution context which we alr
 - Third, the code is scanned for variable declarations and for each variable a property is created in the variable object and set to undefined.
 
 ### Scope chain
-This section deserve an entire lesson so [check this links](learn-javascript/docs/scope-chain.html) to understand how scope chain works.
+This section deserve an entire lesson so [check this links](learn-javascript/docs/scopeChain.html) to understand how scope chain works.
 
 ### This variable
-You can find more details to this section by checking this file [this keyword](learn-javascript/docs/this-keyword.html)
+You can find more details to this section by checking this file [this keyword](learn-javascript/docs/thisKeyword.html)
 
 ## Execution phase
 During this phase the code is executed line by line.

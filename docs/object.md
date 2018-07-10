@@ -62,7 +62,7 @@ const name = {
 }
 ```
 1. A lot of new things here, so first a function in object is called a `method` and you can create a method just like properties but used the word `function` after the double points.
-> **Note** - The new keyword `this` is a little bit strange for now but [check this course](learn-javascript.docs.this-keyword.html) for more information about this.
+> **Note** - The new keyword `this` is a little bit strange for now but [check this course](learn-javascript.docs.thisKeyword.html) for more information about this.
 
 ### Access methods
 ```js

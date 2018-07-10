@@ -1,7 +1,7 @@
 ---
 id: class
 title: Class in ES6
-sidebar_label: Class
+sidebar_label: ES6 class 
 ---
 
 ## Current errors
