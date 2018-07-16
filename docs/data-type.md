@@ -34,7 +34,7 @@ let undefined;
 
 ## The object data types
 In computer an object is a value store in the memory of the computer who can be access by an id.
-> **Note:** We will see later how to use object.
+> **Note:**  [click here](learn-javascript/docs/object.html) to see how to use object.
 
 ## Current errors
 This is a list of the main errors that you can meet when you use data types:
