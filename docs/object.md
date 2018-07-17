@@ -3,7 +3,8 @@ id: object
 title: Object
 sidebar_label: Object
 ---
-> Object are really useful in javascript they allow you to structure your code and better organize your application.
+> *Object are really useful in javascript they allow you to structure your code and better organize your application.*
+>*Object can interact each others through properties and methods with the inheritance [check this course to learn more about inheritance](learn-javascript/docs/prototypeChain.html)*
 
 ## Create an object
 Create an object is really simple there are many methods to do that but in this courses we will use the most used:
