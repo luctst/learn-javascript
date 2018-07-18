@@ -3,7 +3,7 @@
     "Setup": ["overview","introJs","startJs"],
     "Basics": ["dataType","variable","statement","function","array","object","loop"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
-    "Advanced Javascript": ["prototypeChain"],
+    "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
     "Asynchronous Javascript": ["asyncJs"],
     "ES6": ["class"],
     "Structure your app": []

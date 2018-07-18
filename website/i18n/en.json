@@ -33,6 +33,8 @@
     "Object": "Object",
     "overview": "Getting started",
     "Overview": "Overview",
+    "primitiveVsObject": "Data in primitives vs objects",
+    "primitive vs object": "primitive vs object",
     "scopeChain": "Scope chain",
     "The scope chain phase": "The scope chain phase",
     "startJs": "Started with javascript",
