@@ -3,7 +3,7 @@ id: primitiveVsObject
 title: Data in primitives vs objects
 sidebar_label: primitive vs object
 ---
-We already saw what is primitives and object in this lesson [data type](learn-javascript/docs/dataType.html), but let's see now what is the differences between this two datas types.
+>*We already saw what is primitives and object in this lesson [data type](learn-javascript/docs/dataType.html), but let's see now what is the differences between this two datas types.*
 
 ## Primitive
 When you called a primitive data you actually called the value of this primitive data. Let's see with an example.
