@@ -4,7 +4,7 @@
     "Basics": ["variable","dataType","statement","function","array","object","loop"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
-    "Asynchronous Javascript": ["asyncJs"],
+    "Asynchronous Javascript": ["asyncJs","eventLoop"],
     "ES6": ["class"],
     "Structure your app": []
   },
