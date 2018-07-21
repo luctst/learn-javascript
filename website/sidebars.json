@@ -5,7 +5,7 @@
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
     "Asynchronous Javascript": ["asyncJs","eventLoop"],
-    "ES6": ["class"],
+    "ES6": ["letConst","class"],
     "Structure your app": []
   },
   "docs-other": {
