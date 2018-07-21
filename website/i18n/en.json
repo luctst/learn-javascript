@@ -17,6 +17,8 @@
     "ES6 class": "ES6 class",
     "letConst": "Variables in ES6",
     "ES6 variables": "ES6 variables",
+    "templateLiteral": "Template literal string in ES6",
+    "ES6 template literal": "ES6 template literal",
     "executionContextDetail": "Execution context in detail.",
     "Execution context in detail": "Execution context in detail",
     "executionContext": "Execution context and execution stack",
