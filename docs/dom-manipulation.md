@@ -123,3 +123,7 @@ This method return an object nodeList with the css selectors.
 ```
 1. The `querySelectorAll` method works the same than `querySelector` with one differences.
 2. `querySelectorAll` return all the elements that it will meet.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.

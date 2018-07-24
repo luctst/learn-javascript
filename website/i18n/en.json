@@ -31,6 +31,8 @@
     "Hoisting": "Hoisting",
     "codeExecuted": "How the javascript code is executed",
     "How code is executed": "How code is executed",
+    "domWork": "How DOM works behind the scene",
+    "DOM behind the scene": "DOM behind the scene",
     "prototypeChain": "Inheritance and prototype chain",
     "Prototype chain": "Prototype chain",
     "introJs": "Introduction to javascript",

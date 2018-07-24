@@ -10,3 +10,7 @@ It's important to understand that the DOM is not provides by javascript the DOM 
 
 ## Document object
 We know that our web browser give us an API the DOM to manipulate our HTML elements but how we can access this elements with javascript ? Well in the js engine there is an object who was created to represent this elements it's the `document` object.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.

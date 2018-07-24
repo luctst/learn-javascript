@@ -24,3 +24,7 @@ The prototype property of an object is where we put methods and properties that 
 The constructor prototype property is not the the prototype of the constructor itself, it's the prototype of all instances that are created through it.
 
 When a certain method ( or property ) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object's prototype. This continues until the method is found: prototype chain.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.
