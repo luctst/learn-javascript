@@ -1,7 +1,7 @@
 {
   "docs": {
     "Setup": ["overview","introJs","startJs"],
-    "Basics": ["variable","dataType","statement","function","array","object","loop"],
+    "Basics": ["variable","dataType","statement","booleanLogic","function","array","object","loop"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "DOM manipulation": ["domIntro","domManip","domWork"],
     "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
