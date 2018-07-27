@@ -6,7 +6,7 @@
     "DOM manipulation": ["domIntro","domManip","domWork"],
     "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
     "Asynchronous Javascript": ["asyncJs","eventLoop"],
-    "ES6": ["letConst","templateLiteral","arrowFunction","class","module"],
+    "ES6": ["letConst","templateLiteral","arrowFunction","es6ThisKeyword","class","module"],
     "Structure your app": []
   },
   "docs-other": {
