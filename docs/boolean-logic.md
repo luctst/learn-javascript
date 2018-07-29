@@ -48,3 +48,7 @@ if ( !isAdult ) {
 ```
 1. We create a new variable `isAdult` and we give this variable a boolean `true`.
 2. In the if / else statement we ask if  `isAdult` is equal to true which is in this case yes, but you may notice that we also use this `!` syntax who is equal to the NOT operator and inverse the value, so in this case the `isAdult` variable is now equal to `false` so the result will be `You're still a child`.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.
