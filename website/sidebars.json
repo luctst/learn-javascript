@@ -4,7 +4,7 @@
     "Basics": ["variable","dataType","operator","statement","booleanLogic","function","array","object","loop"],
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "DOM manipulation": ["domIntro","domManip","domWork"],
-    "Advanced Javascript": ["prototypeChain","primitiveVsObject"],
+    "Advanced Javascript": ["prototypeChain","constructor","primitiveVsObject"],
     "Asynchronous Javascript": ["asyncJs","eventLoop"],
     "ES6": ["letConst","templateLiteral","arrowFunction","es6ThisKeyword","class","destructuring","spread","rest","module"],
     "Structure your app": []
