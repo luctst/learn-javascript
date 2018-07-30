@@ -32,6 +32,8 @@
     "ES6 modules": "ES6 modules",
     "rest": "ES6 rest parameter",
     "ES6 rest parameter": "ES6 rest parameter",
+    "subClass": "Sub class with ES6",
+    "ES6 subclass": "ES6 subclass",
     "templateLiteral": "Template literal string in ES6",
     "ES6 template literal": "ES6 template literal",
     "es6ThisKeyword": "ES6 this keyword",
