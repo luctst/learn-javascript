@@ -7,7 +7,7 @@
     "Advanced Javascript": ["prototypeChain","constructor","primitiveVsObject"],
     "Asynchronous Javascript": ["asyncJs","eventLoop"],
     "ES6": ["letConst","templateLiteral","arrowFunction","es6ThisKeyword","class","subClass","destructuring","spread","rest","module"],
-    "Structure your app": []
+    "Structure your app": ["mvc"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
