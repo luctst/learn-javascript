@@ -5,7 +5,7 @@
     "Behind the scenes": ["codeExecuted","executionContext","executionContextDetail","hoisting","scopeChain","thisKeyword"],
     "DOM manipulation": ["domIntro","domManip","domWork"],
     "Advanced Javascript": ["prototypeChain","constructor","primitiveVsObject"],
-    "Asynchronous Javascript": ["asyncJs","eventLoop","callbackHell","promise","es6Async"],
+    "Asynchronous Javascript": ["asyncJs","eventLoop","callbackHell","promise","es6Async","ajaxApi"],
     "ES6": ["letConst","templateLiteral","arrowFunction","es6ThisKeyword","class","subClass","destructuring","spread","rest","module"],
     "Structure your app": ["mvc"]
   },
