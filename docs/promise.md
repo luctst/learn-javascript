@@ -1,7 +1,7 @@
 ---
 id: promise
 title: From callback hell to promises
-sidebar_label: callback hell to promise
+sidebar_label: Callback hell to promise
 ---
 >*Promise in javascript are objects who are used to treat asynchronous code. A promise represent a value who can be available now, in the future or never.*
 
@@ -59,3 +59,7 @@ getId
 1. A `Promise` is an object who keep track about a certain event who has already happen or not.
 2. The `Promise` determine what happens when a certain event happened.
 3. A `Promise` implement the concept of a future value that we're expecting.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-javascript) if you find a new error not mentioned above.
