@@ -9,9 +9,7 @@ The learn-javascript repo is a collection of tips about the javascript language,
 - Then we will show you some examples of how to use this notion.
 - We also gonna show you some commons problems with the utilization of this notion.
 
-> **Note:** We displays the code with the codePen script or Github gist.
-
-We will use the `ES6` syntax in this repo so you maybe need to use `Babel` in order to make your code work.
+>**Note** - We will use the `ES6` syntax in this repo so you maybe need to use `Babel` in order to make your code work.
 
 ## Current errors
 This is a list of the main errors that you can meet:
